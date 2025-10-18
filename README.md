@@ -1,7 +1,7 @@
 
   # Kasi Konnect Website
 
-  This is a code bundle for Kasi Konnect Website. The original project is available at https://www.figma.com/design/vDM2yvybRCdWrC93fN0MsX/Kasi-Konnect-Website.
+  This is a code bundle for Kasi Konnect Website.
 
   ## Running the code
 
